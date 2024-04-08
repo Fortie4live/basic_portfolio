@@ -1,0 +1,23 @@
+.menu-area {
+    padding: 20px;
+    background-color: black;
+    color: white;
+
+}
+
+div {
+    background-color: blue;
+}
+
+span {
+color: violet;
+
+}
+
+h2 {
+    color: green;
+}
+
+article {
+    color: brown;
+}
