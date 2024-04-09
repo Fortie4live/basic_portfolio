@@ -1,12 +1,5 @@
-.menu-area {
-    padding: 20px;
-    background-color: black;
-    color: white;
-
-}
-
 div {
-    background-color: blue;
+    background-color: white;
 }
 
 span {
@@ -18,6 +11,15 @@ h2 {
     color: green;
 }
 
+h1 {
+    color: blueviolet;
+}
+
 article {
     color: brown;
+}
+
+table {
+    padding: 20px;
+    color: blue;
 }
